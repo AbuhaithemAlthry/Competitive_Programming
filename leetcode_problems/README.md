@@ -1,2 +1,3 @@
 # Competitive_Programming
-This repository is created for solving problems in order to join A2SV program
+##leetcode_problems
+in this folder you can find solved problems from leetcode platform.
